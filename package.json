@@ -1,0 +1,22 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "for trainings",
+  "main": "test.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Garik-Avetisyan/traz.git"
+  },
+  "author": "Garik",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Garik-Avetisyan/traz/issues"
+  },
+  "homepage": "https://github.com/Garik-Avetisyan/traz#readme",
+  "dependencies": {
+    "cypress": "^13.4.0"
+  }
+}
